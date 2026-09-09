@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sharif-smj/stats/master/generated/contributions.svg" alt="GitHub contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/smj-kairos/stats/master/generated/contributions.svg" alt="GitHub contribution graph" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=sharif-smj&theme=github-dark-blue&hide_border=true&border_radius=8&card_width=860" alt="GitHub streak stats" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=smj-kairos&theme=github-dark-blue&hide_border=true&border_radius=8&card_width=860" alt="GitHub streak stats" />
 </div>
